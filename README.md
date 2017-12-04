@@ -4,7 +4,7 @@ Convert HTML node elements to a horizontal array
 ## use
 
 ```
-<script src='./js/htmlParser.js'></script>
+<script src='./dist/htmlParser.js'></script>
 ```
 
 - document Parser
